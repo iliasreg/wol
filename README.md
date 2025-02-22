@@ -21,7 +21,7 @@ This project demonstrates how to:
    cd wol
    ```
 2. Compile the project:
-  ```bash
+   ```bash
    make
    ```
 
