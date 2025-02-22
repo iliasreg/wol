@@ -43,7 +43,8 @@ This project demonstrates how to:
   ├── socket/         # UDP broadcast functionality
   │   ├── socket.cpp
   │   └── socket.hpp
-  ├── main.cpp        # Program entry point
+  ├── src/         # Entry point
+  │   ├── main.cpp
   ├── Makefile        # Build automation
   └── README.md       # This file
    ```
