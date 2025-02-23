@@ -24,6 +24,10 @@ This project demonstrates how to:
    ```bash
    make
    ```
+3. Run the project:
+   ```bash
+   sudo ./wol AA:BB:CC:DD:EE:FF
+   ```
 
 ## Testing with a Virtual Machine
 - Set up a VM (e.g., VirtualBox or VMware).
