@@ -5,5 +5,6 @@
 #include <vector>
 
 void send_packet(const std::vector<uint8_t>& packet);
+void log_packet(const std::vector<uint8_t>& packet);
 
 #endif

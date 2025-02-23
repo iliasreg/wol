@@ -7,6 +7,13 @@
 
 #include "socket.hpp"
 
+void log_packet(const std::vector<uint8_t>& packet) {
+    for (uint8_t byte : packet) {
+        printf("%02X ", byte);
+    }
+    printf("\n");
+}
+
 void send_packet(const std::vector<uint8_t>& packet){
     
     // initializing the UDP socket

@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+obj/
+
+# Logs and databases
+*.log
+
+# Editor-specific files
+.vscode/
